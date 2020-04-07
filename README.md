@@ -16,7 +16,7 @@
 | Sound Card          | Realtek ALC295 (layout-id:13)               |
 | Wireless Card       | Intel® Wireless-AC 9560 802.11b/g/n/ac      |
 
-## First things you should do Edit SMBIOS to Macbook15,2
+## First things you should do Edit SMBIOS to Macbook Pro 15,2
 
 ## Not Woriking
 - Intel® Wireless-AC 9560 802.11b/g/n/ac
