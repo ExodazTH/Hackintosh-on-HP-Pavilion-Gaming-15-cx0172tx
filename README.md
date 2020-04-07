@@ -20,5 +20,5 @@
 ## Not Woriking
 - Intel® Wireless-AC 9560 802.11b/g/n/ac
 - External GPU 1050Ti
-- Built-in Camera 
+- Built-in Camera (work on smbios macbookpro15,2)
 - Adjust Brightness
